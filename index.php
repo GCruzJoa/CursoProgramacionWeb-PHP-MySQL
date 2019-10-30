@@ -20,7 +20,6 @@ include("b.Ejercicio2.php");
 //Script que muestre ip del cliente, ip del servidor y nombre del fichero en ejecucion;
 include("b.Ejercicio3.php");
 
-//
+//Script que muestre la version de PHP sin utilizar Phpinfo();
 include("b.Ejercicio4.php");
-
 ?>
